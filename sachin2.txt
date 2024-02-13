@@ -1,0 +1,14 @@
+ body{
+    background-color: aquamarine;
+ }
+ .second{
+    text-align: center;
+margin:0px;
+color:crimson;
+background-color: antiquewhite;
+}
+.sachin{
+    padding:20px;
+    border:2px solid black; 
+}
+
